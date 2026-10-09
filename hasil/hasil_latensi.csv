@@ -1,0 +1,5 @@
+model,device,params_juta,ms_per_frame,fps
+ResNet-18,cuda,11.7,3.7,273.9
+ResNet-18,cpu,11.7,152.6,6.6
+MobileNetV3-Small,cuda,2.5,12.7,79.0
+MobileNetV3-Small,cpu,2.5,25.4,39.4

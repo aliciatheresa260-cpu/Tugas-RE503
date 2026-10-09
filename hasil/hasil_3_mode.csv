@@ -1,0 +1,4 @@
+mode,akurasi_val_terbaik,waktu_latih_detik,epoch_akurasi_90
+feature,1.0,19.4,2
+partial,1.0,26.4,1
+scratch,1.0,13.2,2
